@@ -6,8 +6,14 @@ class Solution:
 
             rotated = nums[r:] + nums[:r]
 
-            if rotated == sorted(rotated):
+            isSorted = True
+
+            for i in range(n - 1):
+                if rotated[i] > rotated[i + 1]:
+                    isSorted = False
+                    break
+
+            if isSorted:
                 return True
 
         return False
-        
