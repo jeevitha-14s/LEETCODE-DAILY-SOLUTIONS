@@ -1,19 +1,10 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
+        drops = 0
         n = len(nums)
 
-        for r in range(n):
+        for i in range(n):
+            if nums[i] > nums[(i + 1) % n]:
+                drops += 1
 
-            rotated = nums[r:] + nums[:r]
-
-            isSorted = True
-
-            for i in range(n - 1):
-                if rotated[i] > rotated[i + 1]:
-                    isSorted = False
-                    break
-
-            if isSorted:
-                return True
-
-        return False
+        return drops <= 1
