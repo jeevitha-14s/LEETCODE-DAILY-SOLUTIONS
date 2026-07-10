@@ -1,10 +1,9 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        drops = 0
-        n = len(nums)
+        n = len( nums)
+        for x in range(n):
+            sorted_ver = nums[x:] + nums[:x]
 
-        for i in range(n):
-            if nums[i] > nums[(i + 1) % n]:
-                drops += 1
-
-        return drops <= 1
+            if sorted_ver == sorted(nums):
+                return True 
+        return False
