@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
@@ -37,18 +38,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
