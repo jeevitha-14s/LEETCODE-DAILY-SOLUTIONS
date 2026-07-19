@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
@@ -35,9 +36,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
