@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0007-reverse-integer/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
