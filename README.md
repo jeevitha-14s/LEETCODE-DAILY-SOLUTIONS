@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0007-reverse-integer/) | Medium |
+| [0050-powx-n](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
@@ -103,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
