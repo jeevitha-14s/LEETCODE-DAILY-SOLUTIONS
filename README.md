@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Trie
@@ -129,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0090-subsets-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
