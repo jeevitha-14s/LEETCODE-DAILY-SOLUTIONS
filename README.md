@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0090-subsets-ii/) | Medium |
 | [0134-gas-station](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0135-candy/) | Hard |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0213-house-robber-ii/) | Medium |
