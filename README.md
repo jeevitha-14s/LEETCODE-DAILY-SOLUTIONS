@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0090-subsets-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0090-subsets-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0213-house-robber-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0213-house-robber-ii/) | Medium |
 ## Memoization
@@ -169,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
