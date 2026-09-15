@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0090-subsets-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0090-subsets-ii/) | Medium |
 | [0134-gas-station](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0135-candy/) | Hard |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0213-house-robber-ii/) | Medium |
@@ -180,4 +181,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
