@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0045-jump-game-ii/) | Medium |
@@ -181,9 +182,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0179-largest-number/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
