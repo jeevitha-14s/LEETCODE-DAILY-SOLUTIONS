@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0072-edit-distance/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0455-assign-cookies/) | Easy |
 ## Quicksort
@@ -265,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
