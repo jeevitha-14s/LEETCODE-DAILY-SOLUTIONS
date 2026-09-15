@@ -275,5 +275,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0550-game-play-analysis-iv](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 <!---LeetCode Topics End-->
