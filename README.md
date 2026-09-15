@@ -272,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1174-immediate-food-delivery-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 <!---LeetCode Topics End-->
