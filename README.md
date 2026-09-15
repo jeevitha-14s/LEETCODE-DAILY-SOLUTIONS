@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0610-triangle-judgement/) | Easy |
