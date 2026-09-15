@@ -1,0 +1,1 @@
+SELECT DISTINCT num AS ConsecutiveNums FROM (SELECT num, LAG(num) OVER (ORDER BY id) AS p, LEAD(num) OVER (ORDER BY id) AS nx FROM Logs) t WHERE num = p AND num = nx;
