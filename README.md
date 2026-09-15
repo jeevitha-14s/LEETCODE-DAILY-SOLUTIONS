@@ -282,4 +282,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1070-product-sales-analysis-iii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1729-find-followers-count](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1789-primary-department-for-each-employee/) | Easy |
 <!---LeetCode Topics End-->
