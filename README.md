@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Stack
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0684-redundant-connection/) | Medium |
 | [0997-find-the-town-judge](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
