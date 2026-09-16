@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
@@ -96,11 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
