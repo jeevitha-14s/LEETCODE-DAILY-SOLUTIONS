@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0997-find-the-town-judge/) | Easy |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
