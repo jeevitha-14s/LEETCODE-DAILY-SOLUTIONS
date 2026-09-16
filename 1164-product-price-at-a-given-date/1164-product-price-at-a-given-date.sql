@@ -1,0 +1,1 @@
+SELECT p.product_id, IFNULL((SELECT q.new_price FROM Products q WHERE q.product_id = p.product_id AND q.change_date <= '2019-08-16' ORDER BY q.change_date DESC LIMIT 1), 10) AS price FROM (SELECT DISTINCT product_id FROM Products) p;
