@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0619-biggest-single-number/) | Easy |
+| [0626-exchange-seats](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1164-product-price-at-a-given-date/) | Medium |
