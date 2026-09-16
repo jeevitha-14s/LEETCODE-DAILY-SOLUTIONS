@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Stack
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0997-find-the-town-judge/) | Easy |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1791-find-center-of-star-graph/) | Easy |
