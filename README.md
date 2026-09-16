@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0997-find-the-town-judge/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0997-find-the-town-judge/) | Easy |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
@@ -378,4 +381,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
