@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0619-biggest-single-number/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1164-product-price-at-a-given-date](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1729-find-followers-count](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
