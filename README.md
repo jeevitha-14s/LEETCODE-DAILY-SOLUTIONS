@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0180-consecutive-numbers/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0550-game-play-analysis-iv](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0585-investments-in-2016](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0585-investments-in-2016/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0596-classes-with-at-least-5-students/) | Easy |
