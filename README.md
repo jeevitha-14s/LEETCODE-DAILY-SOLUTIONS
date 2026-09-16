@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1204-last-person-to-fit-in-the-bus](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1341-movie-rating/) | Medium |
 | [1729-find-followers-count](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1789-primary-department-for-each-employee/) | Easy |
