@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0997-find-the-town-judge/) | Easy |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,4 +370,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
