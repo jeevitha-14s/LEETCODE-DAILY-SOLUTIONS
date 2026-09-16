@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0518-coin-change-ii/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0841-keys-and-rooms/) | Medium |
@@ -369,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
