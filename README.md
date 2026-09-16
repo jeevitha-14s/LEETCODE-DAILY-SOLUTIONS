@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0695-max-area-of-island](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
@@ -298,4 +300,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1789-primary-department-for-each-employee](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
