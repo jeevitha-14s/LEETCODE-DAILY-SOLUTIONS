@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0063-unique-paths-ii/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0130-surrounded-regions/) | Medium |
@@ -485,4 +487,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
