@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
