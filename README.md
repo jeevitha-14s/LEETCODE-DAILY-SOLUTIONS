@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,12 +217,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0139-word-break/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
