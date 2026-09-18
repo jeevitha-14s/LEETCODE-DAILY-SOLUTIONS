@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
+| [0279-perfect-squares](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Randomized
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0221-maximal-square/) | Medium |
+| [0279-perfect-squares](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -314,12 +317,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0518-coin-change-ii/) | Medium |
 ## Longest Increasing Subsequence
