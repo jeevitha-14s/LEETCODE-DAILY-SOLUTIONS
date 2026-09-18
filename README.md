@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0064-minimum-path-sum/) | Medium |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0007-reverse-integer/) | Medium |
+| [0048-rotate-image](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
