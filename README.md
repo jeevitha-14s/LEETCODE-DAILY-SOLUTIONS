@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
+| [0133-clone-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0547-number-of-provinces/) | Medium |
