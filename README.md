@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
@@ -276,10 +277,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,4 +530,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
