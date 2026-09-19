@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0997-find-the-town-judge/) | Easy |
+| [1046-last-stone-weight](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1046-last-stone-weight/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
