@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0091-decode-ways/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0091-decode-ways/) | Medium |
 | [0120-triangle](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0120-triangle/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0079-word-search](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
