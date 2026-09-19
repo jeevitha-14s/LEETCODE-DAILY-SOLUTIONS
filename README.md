@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 ## Tree
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 ## Divide and Conquer
