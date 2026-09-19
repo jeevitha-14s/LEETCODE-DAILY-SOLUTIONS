@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0090-subsets-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
@@ -566,4 +570,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
