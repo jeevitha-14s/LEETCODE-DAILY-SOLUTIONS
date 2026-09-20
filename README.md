@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0155-min-stack/) | Medium |
+| [0394-decode-string](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0394-decode-string](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
+| [0394-decode-string](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
