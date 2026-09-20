@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0139-word-break/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0179-largest-number](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0279-perfect-squares](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
