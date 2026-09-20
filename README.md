@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0853-car-fleet](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0621-task-scheduler/) | Medium |
+| [0853-car-fleet](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0853-car-fleet/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -569,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0853-car-fleet/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
