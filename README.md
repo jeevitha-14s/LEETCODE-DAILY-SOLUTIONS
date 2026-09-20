@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0079-word-search/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -600,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0853-car-fleet/) | Medium |
 ## Queue
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/jeevitha-14s/LEETCODE-DAILY-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
